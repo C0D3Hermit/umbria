@@ -1,24 +1,24 @@
 --[[
     ╔═══════════════════════════════════════════════════════════════════════╗
-    ║           COMBAT DRONE GUI - COMPLETE ALL-IN-ONE VERSION               ║
-    ║                                                                        ║
+    ║                UMBRIA GUI - COMPLETE ALL-IN-ONE VERSION               ║
+    ║                                                                       ║
     ║  ✅ ALL 12 Working Modifications                                      ║
     ║  🔄 Auto-Reapply System with Smart Caching                            ║
     ║  ⚡ Optimized (99.8% faster, no lag)                                  ║
     ║  💾 Complete Save/Load/Import/Export System                           ║
     ║  🎨 Full GUI with Sliders and Presets                                 ║
-    ║                                                                        ║
+    ║                                                                       ║
     ║  SINGLE FILE - NO DEPENDENCIES REQUIRED                               ║
     ╚═══════════════════════════════════════════════════════════════════════╝
 ]]
 
 -- Check executor compatibility
 if not getgc then
-    error("Your executor doesn't support getgc()! This script requires it.")
+    error("Your executor doesn't support getgc()!")
 end
 
 print("╔════════════════════════════════════════════════════════════╗")
-print("║  Loading Combat Drone GUI Ultimate Edition...              ║")
+print("║  Loading Umbria GUI Beta...                                ║")
 print("╚════════════════════════════════════════════════════════════╝")
 
 -- Services
@@ -711,14 +711,14 @@ end)
 -- ═══════════════════════════════════════════════════════════════════════════
 
 print("╔════════════════════════════════════════════════════════════╗")
-print("║  ✅ COMBAT DRONE GUI LOADED SUCCESSFULLY!                  ║")
-print("║                                                             ║")
-print("║  Features:                                                  ║")
-print("║  • 12 Working Modifications                                 ║")
-print("║  • Auto-Reapply (ON by default)                             ║")
-print("║  • Optimized (No lag!)                                      ║")
-print("║  • Export/Import System                                     ║")
-print("║  • 6 Built-in Presets                                       ║")
-print("║                                                             ║")
-print("║  Press ⚡ to open GUI                                       ║")
+print("║  ✅ UMBRIA GUI BETA LOADED SUCCESSFULLY!                   ║")
+print("║                                                            ║")
+print("║  Features:                                                 ║")
+print("║  • 12 Working Modifications                                ║")
+print("║  • Auto-Reapply (ON by default)                            ║")
+print("║  • Optimized (No lag!)                                     ║")
+print("║  • Export/Import System                                    ║")
+print("║  • 6 Built-in Presets                                      ║")
+print("║                                                            ║")
+print("║  Press ⚡ to open GUI                                      ║")
 print("╚════════════════════════════════════════════════════════════╝")
