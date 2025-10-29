@@ -1,6 +1,6 @@
 --[[
     ╔═══════════════════════════════════════════════════════════════╗
-    ║    COMBAT DRONE GUI - AUTO-REAPPLY SYSTEM (ENHANCED)          ║
+    ║    UMBRIA GUI - AUTO-REAPPLY SYSTEM (ENHANCED)                ║
     ║    Modifications persist even after exiting POV mode!         ║
     ╚═══════════════════════════════════════════════════════════════╝
     
