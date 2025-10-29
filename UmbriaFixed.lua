@@ -1,4 +1,4 @@
--- Combat Drone GUI - Bulletproof Version
+-- Umbria Beta GUI - Bulletproof Version
 -- Fixed: "attempt to call a nil value" error
 
 local success, result = pcall(function()
@@ -107,7 +107,7 @@ end)
 
 -- GUI
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "CombatDroneGUI"
+ScreenGui.Name = "UmbriaBetaGUI"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
 
@@ -146,7 +146,7 @@ Title.Size = UDim2.new(1, -20, 0, 40)
 Title.Position = UDim2.new(0, 10, 0, 10)
 Title.BackgroundTransparency = 1
 Title.Font = Enum.Font.GothamBold
-Title.Text = "⚡ COMBAT DRONE GUI"
+Title.Text = "⚡ UMBRIA BETA GUI"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 18
 Title.Parent = Main
@@ -290,8 +290,8 @@ UserInputService.InputEnded:Connect(function(input)
 end)
 
 print("╔════════════════════════════════════════════════════════════╗")
-print("║  ✅ COMBAT DRONE GUI LOADED!                               ║")
-print("║  Press ⚡ to open                                           ║")
+print("║  ✅ UMBRIA BETA GUI LOADED!                                ║")
+print("║  Press ⚡ to open                                          ║")
 print("║  GOD MODE preset active                                    ║")
 print("║  Auto-reapply: ON                                          ║")
 print("╚════════════════════════════════════════════════════════════╝")
