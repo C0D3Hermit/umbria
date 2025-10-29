@@ -1,16 +1,16 @@
 --[[
     ╔═══════════════════════════════════════════════════════════════════════╗
-    ║                                                                        ║
-    ║              COMBAT DRONE GUI - ULTIMATE EDITION                       ║
-    ║                                                                        ║
+    ║                                                                       ║
+    ║                      ✴️ UMBRIA   -----   GUI ✴️                       ║
+    ║                                                                       ║
     ║  ✅ 12 Working Modifications + 3 Cosmetic Options                     ║
     ║  💾 Complete Save/Load System with Presets                            ║
     ║  🔄 Auto-Reapply (Persists through POV mode exits)                    ║
     ║  ⚡ Optimized (99.8% faster, no lag spikes)                           ║
     ║  🎨 Modern GUI with Slider/Textbox modes                              ║
-    ║                                                                        ║
-    ║  Created with verification from actual game files                     ║
-    ║                                                                        ║
+    ║                                                                       ║
+    ║  Created with verification from actual game files of TDX              ║
+    ║                                                                       ║
     ╚═══════════════════════════════════════════════════════════════════════╝
     
     USAGE:
@@ -341,13 +341,14 @@ end
 
 -- Initialize
 print("╔════════════════════════════════════════════════════════════╗")
-print("║     COMBAT DRONE GUI ULTIMATE - LOADED!                     ║")
+print("║     UMBRIA GUI - LOADED!                                   ║")
 print("╠════════════════════════════════════════════════════════════╣")
 print("║  ✅ 12 Working Modifications                               ║")
-print("║  👁️ 3 Cosmetic Options                                    ║")
+print("║  👁️ 3 Cosmetic Options                                     ║")
 print("║  💾 Save/Load System                                       ║")
 print("║  🔄 Auto-Reapply Active                                    ║")
 print("║  ⚡ Optimized (No Lag!)                                    ║")
+print("║  ⚠️ Please note that Damage/Damage Multipliers wont work if your trying to make your own gui! (Yes i know this line is very awkward)║")
 print("║                                                            ║")
 print("║  Press ⚡ button to open GUI                               ║")
 print("╚════════════════════════════════════════════════════════════╝")
