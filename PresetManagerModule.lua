@@ -1,4 +1,4 @@
--- Enhanced Save/Load System for Combat Drone GUI V2
+-- Enhanced Save/Load System for Umbria Gui
 -- This is an addon module that adds a comprehensive preset management system
 
 --[[
